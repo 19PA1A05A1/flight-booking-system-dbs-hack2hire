@@ -17,7 +17,7 @@
 	</head>
 	<body>
 		<form>
-		<h1> Registration Form</h1>
+		<h1>  Flight Registration Form</h1>
 		<p>Fill out the form carefully for registration</p>
 		
 		<p>Student Name</p>
