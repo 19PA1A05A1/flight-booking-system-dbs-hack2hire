@@ -2,7 +2,7 @@
 A flight booking system with registering users and displaying the previous bookings.
 <form>
 <div class="container">
-<h1>Register Here</h1>
+<h1>Flight Registration</h1>
 <p>Please fill in the details to create an account with us.</p>
 <hr>
  <label for="fname">First name:</label>
