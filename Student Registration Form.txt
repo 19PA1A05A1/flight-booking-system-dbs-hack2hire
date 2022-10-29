@@ -6,7 +6,7 @@
 			
 		}
 		button{
-			background-color:green;
+			background-color:lightblue;
 			border-width:1px;
 			border-radius:6px;
 		}
@@ -74,19 +74,14 @@
 		<input type="text" name="m" id="m">
 		<h4>Company</h4>
 		<input type="text" name="m" id="m">
-		<h4>Courses</h4>
-		<select  name="g" id="g">
-		<option value="">Choose The Course</option>
-		<option value=1>CSE</option>
-		<option value=2>IT</option>
-		</select>
 		<br>
 		<h3>Additional Comments</h3>
 		<textarea cols="50" rows="8" name="s" id="s"></textarea>
 		<br><br>
 		
-		<input type="button" onclick=prompt("hiii!") value = "SubmitApplication"  style="margin-right: 150px ; background-color:green >
+		<input type="button" onclick=prompt("hiii!") value = "SubmitApplication"  style="margin-right: 150px ; background-color:lightblue >
 		<button>Clear Fields</button>
+		<button type="submit">register</button>
 		</form>
 	</body>
 </html>
