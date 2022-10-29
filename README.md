@@ -5,25 +5,25 @@ A flight booking system with registering users and displaying the previous booki
 <h1>Flight Registration</h1>
 <p>Please fill in the details to create an account with us.</p>
 <hr>
- <label for="fname">First name:</label>
- <input type="text" id="fname" name="fname"><br><br>
- <label for="lname">Last name:</label>
- <input type="text" id="lname" name="lname"><br><br>
-  <label for="age">age:</label>
- <input type="text" id="age" name="age"><br><br>
-   <label for="gender">gender:</label>
- <input type="text" id="gender" name="gender"><br><br>
-   <label for="phoneno">mobile number:</label>
- <input type="text" id="phoneno" name="phoneno"><br><br>
-  <label for="city">city:</label>
- <input type="text" id="city" name="city"><br><br>
-   <label for="state">state:</label>
- <input type="text" id="state" name="state"><br><br>
+<label for="fname">First name:</label>
+<input type="text" id="fname" name="fname"><br><br>
+<label for="lname">Last name:</label>
+<input type="text" id="lname" name="lname"><br><br>
+<label for="age">age:</label>
+<input type="text" id="age" name="age"><br><br>
+<label for="gender">gender:</label>
+<input type="text" id="gender" name="gender"><br><br>
+<label for="phoneno">mobile number:</label>
+<input type="text" id="phoneno" name="phoneno"><br><br>
+<label for="city">city:</label>
+<input type="text" id="city" name="city"><br><br>
+<label for="state">state:</label>
+<input type="text" id="state" name="state"><br><br>
 <label for="email">Enter Email:</label>
 <input type="text" name="email"><br><br>
 <label for="pwd">Password:</label>
 <input type="password" name="pwd"><br><br>
-<label for="confirm">Confirm Password</label>
+<label for="confirm">Confirm Password:</label>
 <input type="password"name="confirm"><br><br>
  <input type="submit" value="Submit">
 <hr>
